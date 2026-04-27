@@ -1,4 +1,4 @@
-Nmap Simulator using C#
+Nmap simulation using C#
 
 Overview
 --------
