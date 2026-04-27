@@ -1,0 +1,67 @@
+# Visual Studio / .NET gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+build/
+artifacts/
+
+# Rider
+.idea/
+
+# VS Code workspace
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Test results
+TestResults/
+*/TestResults/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*~
+
+# Database files
+*.mdf
+*.ldf
+*.dbmdl
+
+# Generated files
+*.g.cs
+*.generated.cs
+DetectedOpenPorts.cs
+
+# Publish output
+publish/
+
+# Others
+*.vsix
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories for any nested projects
+**/bin/
+**/obj/
